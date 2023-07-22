@@ -23,7 +23,7 @@ Follow these steps to set up and run the YouTube Clone web app on your local mac
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/youtube-clone.git
+git clone https://derrickmura.github.io/YoutubeClone/
 Install dependencies:
 bash
 Copy code
@@ -36,7 +36,7 @@ Start the development server:
 bash
 Copy code
 npm start
-Open your web browser and navigate to http://localhost:3000 to access the YouTube Clone web app.
+Open your web browser and navigate to https://derrickmura.github.io/YoutubeClone/ to access the YouTube Clone web app.
 Contribution Guidelines 🤝
 
 We welcome contributions from the open-source community! If you find any bugs, have suggestions for new features, or want to improve the existing code, feel free to open an issue or submit a pull request.
